@@ -1,0 +1,186 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+* {
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    background: #1ba11a url(./images/tile.png) top left repeat;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    padding: 3rem;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 700px;
+    margin: auto;
+    font-size: 1.1rem;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-family: times,helvetic,sans-serif;
+    color: white;
+    font-size: 5rem;
+}
+
+h3 {
+    color: yellow;
+    font-size: 1.5rem;
+}
+
+#header_img_top {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.flex_img_container {
+    padding: 3rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+#flex_img_2 {
+    height: 40%;
+}
+
+.flex_img_container img {
+    width: 45%;
+}
+
+#header_img_bottom {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.text_section {
+    padding: 1rem;
+}
+
+#text_img_container {
+    justify-content: space-between;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.dark_yellow {
+    color: rgb(219, 219, 0);
+}
+
+.white {
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.middle {
+    text-align: center;
+}
+
+p {
+    padding: .5rem;
+}
+
+#last_text_section {
+    font-size: 1.6rem;
+}
+
+#ribbons {
+    background: url(./images/bow_left.png) no-repeat 500px;
+    margin:auto;
+}
+
+#ribbons p {
+    background: url(./images/bow_right.png) no-repeat ;
+
+}
+
+#visitors_container {
+    background-color: black;
+
+}
+
+#bottom_img_section a {
+    cursor: default;
+}
+
+#click_here_img {
+    margin: auto;
+    width: 35%;
+    padding: 20px;
+    cursor: pointer;
+}
+
+#visitors_container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#visitors_container > * {
+    padding: .2rem;
+}
+
+#visitors_container:nth-child(1) {
+    font-size: 4rem;
+}
+
+#visitors_counter {
+    align-self: center;
+    width: 5rem;
+    padding-bottom: 3rem;
+}
+
+.flex_container {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+ul a {
+    padding: 20px;
+    color: white;
+    font-size: .8rem;
+}
+
+li {
+    list-style: none;
+}
+
+#copyright {
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
