@@ -8,7 +8,7 @@ SaveWalterWhite.com is the website created by Walter White Jr. in order to raise
 
 ### Screenshot
 
-![](./images/web-screenshot.jpg)
+![](./images/web-screenshot.png)
 
 ### Links
 
