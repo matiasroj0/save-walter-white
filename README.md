@@ -20,3 +20,8 @@ SaveWalterWhite.com is the website created by Walter White Jr. in order to raise
 - HTML
 - CSS
 
+## Author
+
+- LinkedIn - https://www.linkedin.com/in/matias-rojo-49aa2a197/
+- Frontend Mentor - [@matiasroj0](https://www.frontendmentor.io/profile/matiasroj0)
+
