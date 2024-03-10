@@ -12,7 +12,7 @@ SaveWalterWhite.com is the website created by Walter White Jr. in order to raise
 
 ### Links
 
-- Live Site URL: [https://stellular-starburst-2b2347.netlify.app/](https://clever-crisp-1a4d6e.netlify.app)
+- Live Site URL: https://matiasrojo-save-walter-white.netlify.app/
 - Original website: http://www.savewalterwhite.com/
 
 ### Built with
